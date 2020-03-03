@@ -1,2 +1,3 @@
-# forum
-Forum for discussing project ideas
+# Forum
+
+Open a new issue to discuss your project idea!
